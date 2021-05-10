@@ -1,0 +1,20 @@
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\bin\Release\EncodeDecode.exe
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\bin\Release\EncodeDecode.pdb
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\bin\Release\TUONGHD.dll
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\obj\Release\ResolveAssemblyReference.cache
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.Form1.resources
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.Properties.Resources.resources
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.csproj.GenerateResource.Cache
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.exe
+D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.pdb
+D:\SOURCE\EncodeDecode\EncodeDecode\bin\Release\EncodeDecode.exe
+D:\SOURCE\EncodeDecode\EncodeDecode\bin\Release\EncodeDecode.pdb
+D:\SOURCE\EncodeDecode\EncodeDecode\bin\Release\TUONGHD.dll
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.csprojAssemblyReference.cache
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.Form1.resources
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.Properties.Resources.resources
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.csproj.GenerateResource.cache
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.csproj.CoreCompileInputs.cache
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.csproj.CopyComplete
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.exe
+D:\SOURCE\EncodeDecode\EncodeDecode\obj\Release\EncodeDecode.pdb

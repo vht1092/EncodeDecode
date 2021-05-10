@@ -1,0 +1,9 @@
+D:\My Project\EncodeDecode\EncodeDecode\obj\Debug\ResolveAssemblyReference.cache
+D:\My Project\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.Form1.resources
+D:\My Project\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.Properties.Resources.resources
+D:\My Project\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.csproj.GenerateResource.Cache
+D:\My Project\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.exe
+D:\My Project\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.pdb
+D:\My Project\EncodeDecode\EncodeDecode\bin\Debug\TUONGHD.dll
+D:\My Project\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.exe
+D:\My Project\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.pdb

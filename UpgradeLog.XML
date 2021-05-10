@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EncodeDecode">
+</Property><Property Name="Solution File" Value="D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode.sln">
+</Property><Property Name="User Options File" Value="D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\EncodeDecode.suo">
+</Property><Property Name="Date" Value="Sunday, December 27, 2015">
+</Property><Property Name="Time" Value="8:08 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EncodeDecode.sln" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EncodeDecode.suo" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode.suo">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\EncodeDecode.csproj" Description="Project file successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\EncodeDecode.csproj">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Form1.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Form1.cs">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Form1.Designer.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Program.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Program.cs">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Properties\Settings.settings" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Form1.resx" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Form1.resx">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\Properties\Resources.resx" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\EncodeDecode\Backup\EncodeDecode\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\EncodeDecode.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EncodeDecode" Source="EncodeDecode\EncodeDecode.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EncodeDecode.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EncodeDecode.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EncodeDecode" Source="EncodeDecode\EncodeDecode.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
